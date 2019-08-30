@@ -8,3 +8,6 @@ disini ada beberapa folder yang terbagi pada bbrp pelajaran, susunannya antara l
 5. Percabangan
 6. Perulangan
 7. Objeks
+8. PropertiMethod
+9. AccessModif
+10. 
