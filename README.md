@@ -13,3 +13,5 @@ disini ada beberapa folder yang terbagi pada bbrp pelajaran, susunannya antara l
 10. MethodOrFunction
 11. AccessModif
 12. Interfaces
+13. SampleCollection
+
